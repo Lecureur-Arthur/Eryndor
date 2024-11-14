@@ -50,7 +50,7 @@
 ```
 /Eryndor
 │
-├── Assets/            # Tous les assets du jeu (modèles, textures, scripts, etc.)
+├── Assets/            # Tous les assets du jeu (modèles, textures, etc.)
 ├── Scenes/            # Les scènes du jeu
 ├── Scripts/           # Tous les scripts du jeu
 │   ├── Combat/        # Scripts de combat
