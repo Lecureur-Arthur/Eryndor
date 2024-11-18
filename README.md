@@ -1,7 +1,7 @@
 # **Eryndor**
 
 ## **Description**
-**Eryndor** est un jeu en réalité virtuelle (VR) qui plonge le joueurs dans un univers fantastique riche et vivant, inspiré des jeux de rôle et des aventures en monde ouvert. Le joueur incarne un héros en quête de fragments du **Coeur d'Eryndor**, une mustérieuse relique ancienne dispersée à travers un royaume magique. En explorant des plaines sauvages, en résolvant des énigmes dans des donjons périlleux, et en combattant des créatures mythologiques, le joueur devra affronter des boss redoutables, découvrir des secrets cachés et améliorer son équipement pour atteindre son but ultime.
+**Eryndor** est un jeu en réalité virtuelle (VR) qui plonge le joueur dans un univers fantastique riche et vivant, inspiré des jeux de rôle et des aventures en monde ouvert. Le joueur incarne un héros en quête de fragments du **Coeur d'Eryndor**, une mustérieuse relique ancienne dispersée à travers un royaume magique. En explorant des plaines sauvages, en résolvant des énigmes dans des donjons périlleux, et en combattant des créatures mythologiques, le joueur devra affronter des boss redoutables, découvrir des secrets cachés et améliorer son équipement pour atteindre son but ultime.
 
 
 ## **Installation**
@@ -144,18 +144,60 @@ Les Erudits de la Bibliothèques d'Alderan incarnent la sagesse collective et la
 
 ### Le mercenaire Karos
 #### Lore
+Karos est un guerrier solitaire connu dans tout Eryndor pour son habilité au combat et sa nature énigmatique. Mercenaire de renom, il offre ses services aux aventuriers capables de payer son prix ou de proouver leurs valeur par des actes héroïques.
 #### Origines
+On sait peu de choses sur le passé de Karos. Certains racontent qu'il était autrefois un chevalier déchu, trahi par ses alliés et forcé de survivre seul. D'autres disent qu'il a toujours été vagabond, explorant les terres en quête de défis. Ce qui est sûr, c'est que son expérience et son instinct lui on permis de surviver dans les environnements les plus hostiles d'Eryndor.
 #### Rôles Actuel
+Karos est allié potentiel pour les aventuriers. Bien qu'il préfère travailler en solitaire, il est prêt à se battre aux côtés de ceux qu'il considère dignes de sa lame. Il est souvent trouvé dans des tavernes ou des campements isolés, où il attend le prochain contrat ou l'opportunité de se mesurer à des ennemis redoutables.
 #### Personnalité
-#### Sa plus Grande Fierté
+Karos est taciturne et direct. Il parle peu, préférant laisser ses actions parler pour lui. Il a un code d'honneur strict : il ne travaille pas pour ceux qu'il considère comme malhonnêtes ou cruels. Malgré son apparence froide, il possède un profond respect pou rles aventuriers courageux et un sens de la justice qui guide ses choix.
+#### Compétences et Forces
+Karos est un maître du combat rapproché, maniant une lame imposante avec une précision redoutable. Il est également un stratège expérimenté, capable d'analyser rapidement les forces et les faiblesses d'un adversaire. Sa présence sur le champ de bataille peut changer le cours d'un combat.
+- **Attaques Dévastatrices** : Ses coups puissants peuvent briser les défenses les plus solides.
+- **Techniques Spéciales** : Karos possède des mouvements uniques qu'il utilise pour désarmer ou neutraliser rapidement ses ennemis.
+- **Instinct de Survie** : Habitué à combattre seul, il sait se défendre contre plusieurs ennemis à la fois.
 #### Interraction avec le joueur
+- **Allié Temporaire** : Karos peut accompagner le joueur dans des donjons ou des quêtes difficiles, offrant un soutien de combat inestimable.
+- **Entrainement** : Il propose parfois des sessions d'entraînement au joueur, enseignant des techniques de combat avancées ou offrant des conseils tactiques.
+- **Quêtes Spécifiques** : Karos peut demander l'aide du joueur pour régler des affaires personnelles, comme traquer un ennemi de longue date ou récupérer un objet précieux.
+#### Son Campement
+Karos installe souvent son campement près des Plaines Oubliées ou aux abords des Donjons des Cinq Echos. Son camp est simple, équipé de tout ce dont un guerrier pourrait avoir besoin : une forge rudimentaire, des armes soigneusement entretenues, et des provisions. Ces campements servent de refuge temporaire pour les aventuriers en quête de repos ou d'information.
+
+Karos, le Mercenaire Vagabond, est un allié précieux pour ceux qui partagent ses valeurs et un adversaire redoutable pour ceux qui s'opposent à lui. Sa lame et son expérience sont des atouts qui peuvent faire la différence dans la quête pour restaurer le Coeur d'Eryndor.
 
 ## **Boss**
 ### Le gardien sépulcral
+Le Gardien Sépucral est l'un des premiers grands défis auxquels le joueur sera confronté dans *Eryndor*. Chargé de protéger l'un des fragments du Coeur d'Eryndor, ce boss imposant hante une mausolée antique, rempli d'obscurité et de pièges mortels.
+#### Apparence
+Le Gardien Sépucral est une entité massive et terrifiante, un amalgame d'os, de métal rouillé et de magie obscure. Son corps est enveloppé d'une aura noire, et ses yeux brillent d'un éclat spectral. Il brandit une gigantesque hallebarde corrodée et porte une arlure partiellement détruire, évoquant un ancien chevalier maudit.
+#### Origines
+Selon les légendes, le Gardien Sépulcral était autrefois un chevalier d'élite jurant fidélité au royaume d'Eryndor. Après la fragmentation du Coeur, il fut corrompu par les énergies sombres émanant des éclats dispersés. Transformé en une sentinelle sans âme, il est condamné à défendre son fragment conte quiconque tenterait de le récupérer.
+#### Comportement
+Le Gardien est une force implacable, combinant puissance brute et tactiques stratégiques. Bien qu'il semble lent à première vue, ses attaques sont dévastatrices st son intelligence tactiques le rend imprévisible.
+- **Patrouille** : Avant le combat, le Gardien arpente son mausolée dans un silence menaçant, surveillant tout intrus.
+- **Combativité** : Une fois engagé, il attaque sans relâche, utilisant la portée de sa hallebarde pour maintenir ses adversaires à distance.
+#### Compétences
+- **Coup de Hallebard** : Une attaues puissante en balayage, capable de toucher plusieurs cibles à la fois et d'infliger des dégâts massifs.
+- **Frappe Spectrale** : Le Gardien canalise une énergie sombre dans son arme et frappe le sol, créant une onde de choc magique qui traverse la pièce.
+- **Appel des Ombres** : Il invoques des âmes torturées pour distraire et attaquer le joueur, forçant ce dernier à gérer plusieurs ennemis à la fois.
+- **Carapace Squelettique** : A mesure que ses points de vie diminuent, il renforce son armure avec des os environnants, réduisant les dégâts subis.
+#### Stratégie pour le Battre
+1. **Esquiver ses Balayages** : Rester mobile est crucial pour éviter les attaques larges de sa hallebarde.
+2. **Exploiter les Fenêtres d'Ouverture** : Après une frappe au sol ou une invocation, le Gardien est vulnérables pendant quelques secondes.
+3. **Gérer les Ombres** : Il est vital de neutraliser les âmes invoquées rapidement pour éviter d'être submergé.
+4. **Armes Améliorées** : Des équipements bénis ou chargés de magie sacrée infligent des dégâts accrus au Gardien
+#### Environnment
+Le combat conter le Gardien se déroule dans une salle funéraire massive. Le sol est jonché d'ossements et les murs sont ornés de bas-reliefs représentant les batailles anciennes. Des piliers effondrés et des flammes spectrales offernt des couvertures temporaires, mais les zones sombres cachent parfois des pièges.
+#### Récompenses
+- **Fragment du Coeur d'Eryndor** : Le fragment protégé par le Gardien.
+- **Hallebarde Sépulcrale** : Une version allégée de l'arme du boss, utilisable par le joueur.
+- **Reliques Maudites** : Des objets magiques imprégnés d'énergie sombre, utiles pour renforcer les compétences ou créer des objets puissants.
+
+Le Gardien Sépulcral représente une épreuve essentielle, testant les compétences du joueur en combat stratégique et en gestion des ressources. Sa défaite marque un tournant dans la quête pour restaurer Eryndor, prouvant que le héros est capable d'affronter les ténèbres les plus profondes.
 
 ### Le protecteur de la sylve
 
-### Le dragon de la sylve
+### Le dragon de braise
 
 ### L'aigle de la tempête
 
