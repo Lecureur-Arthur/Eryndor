@@ -97,26 +97,50 @@ La création de l'Eclat d'Ombracier, une lame légendaire qui, selon la légende
 - **Confection Spéciales** : Avec des plans spécifiques ou des ressources uniques, il peut forger des objets exceptionnels, comme des amulettes protectrices ou des armes magiques.
 - **Histoires Cachées** : En parlant avec lui, le joueur peut découvrir des fragments de l'histoire d'Eryndor et des secrets sur les Donjons des Cinq Echos.
 - **Quêtes Spécifiques** : Ulthar envoie parfois le joueur à la recherche de minerais oubliés ou de composants nécessaires à ses créations.
-#### Sa Relation avec Kaelion  
-Ulthar respecte profondément Kaelion, qu’il considère comme un symbole d’honneur et de courage. Ensemble, ils représentent les deux piliers du soutien aux aventuriers : la sagesse stratégique et la force matérielle. Leur amitié, forgée dans les épreuves, est une source d’inspiration pour ceux qui les croisent.
 
 Ulthar, le forgeron légendaire, incarne la force et la presévérence. Ses créations ne sont pas que des outils pour les aventuriers, mais des oeuvres imprégnées de l'histoire et du destin d'Eryndor.
 
 ### La sorcière Aelya
 #### Lore
+Aelya, surnommée la Sorcière des Arcanes, est une figure énigmatique et respectée du royaume d'Eryndor. Maîtraisse des arts magiques, elle habite une tour isollée à la lisière des Plaines Oubliées, où elle offre ses services aux aventuriers dignes de sa confiance.
 #### Origines
+Aelya est issue d'une lignée de mages puissants qui avaient juré de protéger le Coeur d'Eryndor. Après la fragmenetation du Coeur, elle s'est isolé, cherchant à comprendre l'origine de ce désastre et à restaurer l'équilibre magique du royaume. Ses recheches l'ont amenée à maîtriser des magies anciennes, oubliées depuis des siècles.
 #### Rôles Actuel
+Aelya est une alliée précieuse pour les aventuriers. Elle fournit des enchantements, enseigne des sorts puissants et partage ses connaissances sur les mystères d'Eryndor. Elle est également une gardienne de secrets liés aux Donjons des Cinq Echos et à leurs magie protectrice.
 #### Personnalité
-#### Sa plus Grande Fierté
+Aelya est aussi sage que mystérieuse. D'apparence froide et distante, elle est en réalité une allliée bienveillante pour ceux qui gagnent sa confiance. Elle parle peu, préférant guider les aventuriers par ses actions et ses énigmes. Sa patience est légendaire, mais elle n'a aucune tolérance pour les imprudents ou les égoïstes.
+#### Sa plus Grande Peur
+Aelya craint que le déséquilibre magique causé par la fragmentation du Coeur d'Eryndor ne conduise à l'effondrement total du royaume. Elle travaille sans relâche pour enseigner aux aventuriers comment maîtriser les forces magiques nécessaires à leur quête.
 #### Interraction avec le joueur
+- **Enchantements** : Aelya propose d'enchanter les armes et armures du joueur, augementant leur puissance ou ajoutant des effets spéciaux, comme des flammes ou des boucliers magiques.
+- **Apprentissage de Sort** : Elle enseigne au joueur  des compétences magiques, comme des attaques élémentaires, des boucliers protecteurs ou des sorts de guérison.
+- **Quête Magiques** : Aelya envoie parfois le joueur dans des lieux magiques oubliés pour récupérer des reliques ou des ingrédients nécessaires à ses rituels.
+- **Révélations Mystiques** : En discutant avec elle, le joueur découvre des informations cruciales sur les Donjons des Cinq Echos, les origines du Coeur d'Eruyndor et les créatures corrompues qui hantent le royaume.
+#### Sa Tour
+La tour d'Aelya est un lieu unique dans Eryndor. Remplie de livres anciens, d'artefacts magiques et d'orbres brillant, elle est un havre de savoir et de puissance. L'intérieur de la tour semble défier les lois de la physique, offrant des passsages secrets et des visions mystiques pour ceux qui s'y aventurent.
 
+Aely, la sorcière des Arcanes, est une gardienne de la magie et une alliée précieuse. Elle représente la quête de connaissance et de puissance, offrant aux aventuriers des outils et de leçons nécessaires pour triompher des ténèbres d'Eryndor
 ### Les erudit de la bibliothèque
 #### Lore
+Les Erudits de la Bibliothèques d'Alderan sont les gardiens du savoir du royaume d'Eryndor. Installé dans une majestueuse bibliothèque au coeur de la Cité d'Alderan, ils consacrent leur vie à l'étude, à la préservation et à la transimission des connaissances anciennes.
 #### Origines
+La bibliothèque d'Alderan a été fondée par les premiers mages et érudits du royaume, qui souhaitaient préserver l'histoire, la magie, et les récits héroïques d'Eryndor. Après la fragmentation du Coeur d'Eryndor, les Erudits ont joué un rôle essentiel en documentant les changements dans le royaume et en recherchant des solutions pou réparer ce qui a été brisé.
 #### Rôles Actuel
+Les Erudit ne sont pas des combattants, mais leur contribution est cruciale pour les aventuriers. Ils fournissent des cartes détaillées, des indices sur les Donjons des Cinq Echos et des récits sur les créatures et les pièges qui attendent les héros. Leur savoir est une arme invisible, capable de guider les plus courageux vers la victoire.
 #### Personnalité
-#### Sa plus Grande Fierté
+- **Maître Daryus, l'historien** : Expert en récits anciens et en légendes, il peut raconter les origines des donjons et révéler des indices cruciaux sur leurs secrets.
+- **Lyra, la cartographe** : Elle dessine des cartes précises du royaume, aidant les aventuriers à naviguer dans les zones inconnues et à découvrir des passages cachés.
+- **Thalos, le naturaliste** : Spécialiste des créatures et des plantes d'Eryndor, il fournit des informations sur les faiblesses des ennemis et sur l'utilisation des ressources naturelles.
+- **Auren, le mage-érudit** : Il étudie la magie ancienne et offre des conseils sur les artéfacts magiques et les sorts nécessaires pour affronter les dangers des donjons.
+#### La Bibliothèques d'Alderan
+La bibliothèques est un lieu grandiose, rempli d'étagères imposantes, de livres anciens et d'artefacts mystiques. Des lumières magiques flottent dans l'air, éclairant les tables où les érudits travaillent sans relâche. Certains aventuriers y trouvent même des journaux laissés par d'autres héros, contenant des récit d'aventures passées et des avertissements pour ceux qui suivent leurs traces.
 #### Interraction avec le joueur
+- **Cartes et Indices** : Les Erudits fournissent des cartes détaillées et des informations sur les Donjons des Cinq Echos, aidant le joueur à planifier ses explorations.
+- **Identification des Objets** : Les artefacts ou objets mystérieux découverts dans les donjons peuvent être identifiés par les Erudits, révélant leur utilité ou leur histoire
+- **Histoires et Quêtes** : En discutant avec les Erudits, le joueur peut apprendre des récit sur l'histoire d'Eryndor et recevoir des quêtes secondaires, comme retrouver un livre perdu ou explorer un site oublié.
+- **Conseils Stratégiques** : Avant d'entrer dans un donjon, les Erudits peuvent fournir des informations sur les pièges et les créatures spécifiques qu'il contient.
+
+Les Erudits de la Bibliothèques d'Alderan incarnent la sagesse collective et la quête de vérité. Sans leur savoir, les aventuriers seraient aveugles face aux défis d'Eryndor. Grâce à leur guidance, les héros peuvent affronter les ténèbres avec un esprit éclairé et une détermination renouvelée.
 
 ### Le mercenaire Karos
 #### Lore
