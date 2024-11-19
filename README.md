@@ -236,8 +236,41 @@ Créature légendaire née du magma des montagnes d'Eryndor, le Dragon de Braise
 Le Dragon de Braise est une force incontrôlable, guidée par son instinct territorial et une colère brûlante envers les intrus.
 - **Vol Dominant** : Il commence souvent le combat en s'élevant dans les airs, rendant difficile de l'atteindre directement.
 - **Rage Pyrotechnique** : Plus le combat dure, plus le dragon devient agressif, augementant la fréquence et l'intensité de ses attaques.
+#### Compétences
+- **Soufle de Feu** : Un torrent de flammes dévastateur qui balaie l'arène, forçanct les joueur à essquiver ou à se réfugier derrière des rochers.
+- **Pluis de Braise** : Le dragon s'élève dans les airs et libère une pluie de météores incandescents, infligeant des dégâts massifs en zone.
+- **Coup de Queue** : Un balayage rapide avec sa queue écailleuse, efficace pour repousser les adversaires qui s'approchent trop près.
+- **Aura de Chaleur** : a simple présence augemente la température de l'arène, drainant lentement la santé du joueur s'il reste immobile trop longtemps.
+- **Eruption de lava** : Le dragon frappe le sol, provoquant des geysers de lave qui jaillissent aléatoirement dans l'arène.
+#### Stratégie pour le battre
+1. **Se Protéger des Flammes** : Porter des équipements résistants à la chaleur ou utiliser des potions de protection contre le feu est crucial.
+2. **Observer les Attaques Aériennes** : Anticiper ses mouvements dans les airs pour éviter ses assauts dévastateurs.
+3. **Utiliser des Armes à Distance** : Pendant qu'il vole, les arcs ou les sorts permettent de continuer à infliger des dégâts.
+4. **Exploiter les Failles** : Après une attaque comme le Souffle de Feu, il devient vulnérable pendant quelques secondes.
+#### Environnement
+Le combat a lieu dans une gigantesque caverne volcanique, remplie de lacs de lave et de colonnes de pierre incandescentes. Des rochers tombent régulièrement du plafond, créant des obstacels ou des couvertures temporaires. Le terrain change au fil du combat, avec des zones qui s'effondrent dans la lave, réduisant les options pour se déplacer.
+#### Récompenses
+- **Fragment de Coeur d'Eryndor** : Gardé au coeur de la caverne.
+- **Ecaille de Braise** : Une ressource rare permettant de forger des armures resistantes au feu ou d'améliorer des armes avec des dégâts supplémentaires de feu.
+- **Anneau de Flamboyant** : Un artefact magique augementant la résistance aux flammes et la puissance des sorts élémentaires de feu.
+#### Lien avec l'histoire
+La victoire sur le Dragon de Braise est un moment de gloire pour le joueur, marquant un tournant dans la quête. Cet affrontement épique symbolise la capacité du héros à surmonter les épreuves les plus intenses. De plus, les villages voisins, libérés de la menace du dragon, offrent leur aide au joueur, enrichissant les options d'artisanat et d'approvisionement.
+
+Le Dragon de Braise, avec sa puissance mythique et son arène spectaculaire, offre l'un des combats les plus mémorables de l'aventure, mélant stratégie, habilité et résistance
 
 ### L'aigle de la tempête
+L'Aigle de la Tempête est un adversaire aérien redoutable, maître des cieux et gardien d'un fragment du Coeur d'Eryndor. Niché au sommet d'une montagne balayée par des vents violents et des orages incessants, cet imposant oiseau incarne la force et la majesté de la tempête.
+#### Apparence
+L'Aigle de la Tempête est gigantesque, avec uenenvergure d'ailes qui couvre presque tout l'arène. Son plumage est d'un bleu électrique et semble crépiter d'énergie, tandis que ses yeux étincellent comme des éclairs prêts à frapper. Ses griffes scintillent d'un métal noir, et des éclairs dansent sur ses ailes lorsqu'il s'élève dans le ciel.
+#### Origines
+Créature légendaire née d'une tempête millénaire, l'Aigle de la Tempête a été choisi pour veiller sur un fragment du Coeur d'Eryndor. Ses pouvoirs sont liés aux forces élémentaires du vent et de la foudre, et il est craint autant qu'admiré par les habitants des villages environnants.
+#### Comportement
+L'Aigle de la Tempête domine le champ de batailles avec ses attaques aériennes rapides et imprévisibles.
+- **Vol Stratégique** : Il alterne entre des attaques à haute altitude et des piqués mortels pour déstabiliser le joueur.
+- **Fureur Cyclonique** : Lorsqu'il est blessé, il intensifie ses attaques, déclenchent des tempêtes encore plus violentes.
+#### Compétences
+- **Plongeons Electrique** : Un piqué rapide où il frappe le joueur avec ses griffes, infligeant des dégâts physique et électriques.
+- **Rafales de VEnt** : 
 
 ### Le serpent des abysses
 
