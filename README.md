@@ -227,6 +227,15 @@ La défaite du Protecteur de la Sylve représente plus qu'un simple triomphe : c
 Le Protecteur de la Sylve est un adversaire redoutable, mais aussi une incarnation de la beauté et de la fureur de la nature, offrant un combat mémorable dans l'aventure du joueur
 
 ### Le dragon de braise
+Le Dragon de Braise est l'un des boss les plus redoutables d'*Eryndor*, incarant la puissance brute et la fureur des flammes. Gardien d'un fragment du Coeur d'Eryndor, il règne dans une caverne volcanique où la chaleur suffocante et les rivières de lave mettent à l'épreuve le courage et les compétences des aventuriers.
+#### Apparence
+Le Dragon de Braise est une immense créature écarlate recouverte d'écailles ardentes. Ses ailes membraneuses, bordées de flammes, illuminent la caverne lorsqu'il les déploie. Ses yeux brillent d'un feu incandescent, et chaque battement de son souffle envoie des étincelles et des flammes dans les airs. Son corps est orné de cicatrices et de runes luminescentes, vestiges de batailles passées.
+#### Origines
+Créature légendaire née du magma des montagnes d'Eryndor, le Dragon de Braise. Le fragment amplifie sa puissance, rendant ses flammes impossibles à éteindre. Il est vu comme un fléau par les villages environnants, mais aussi comme un symbole de grandeur et de respect.
+#### Comportement
+Le Dragon de Braise est une force incontrôlable, guidée par son instinct territorial et une colère brûlante envers les intrus.
+- **Vol Dominant** : Il commence souvent le combat en s'élevant dans les airs, rendant difficile de l'atteindre directement.
+- **Rage Pyrotechnique** : Plus le combat dure, plus le dragon devient agressif, augementant la fréquence et l'intensité de ses attaques.
 
 ### L'aigle de la tempête
 
