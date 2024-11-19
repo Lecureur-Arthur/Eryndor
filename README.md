@@ -196,6 +196,35 @@ Le combat conter le Gardien se déroule dans une salle funéraire massive. Le so
 Le Gardien Sépulcral représente une épreuve essentielle, testant les compétences du joueur en combat stratégique et en gestion des ressources. Sa défaite marque un tournant dans la quête pour restaurer Eryndor, prouvant que le héros est capable d'affronter les ténèbres les plus profondes.
 
 ### Le protecteur de la sylve
+Le protecteur de la Sylve est le second boss majeur d'*Eryndor*. Ce gardien millénaire veille sur un fragment du Coeur d'Eryndor dissimulé dans une clairière enchantée, au coeur d'une forêt dense et mystérieuse. Mi-créature, mi-esprit, il est un avatar de la nature, à la fois majestueux et redoutable.
+#### Apparence
+Le Protecteur de la Sylve est une entité gigantesque composé d'écorce vivante, de vignes mouvantes, et de cristaux lumineux incrustrés dans son corps. Ses yeux luisent d'une lumière émeraude, reflétant la sagesse et la colère de la forêt qu'il protège. Il porte sur son dos un arbre ancien, dont les branches s'animent pour attaquer les intrus.
+#### Origines
+Créé par les anciens druides d'Eryndor pour protéger la nature conter les envahisseurs, le Protecteur de la Sylve est devenu l'ultime gardien de la forêt après la fragmentation du Coeur. Le fragment qu'il garde amplifie sa puissance et son lien avec la végétation environnante, mais l'a également rendu méfiant et agressif envers tous ceux qui pénètrent son domaine.
+#### Comportement
+Le Protecteur agit comme un juge implacable, testant la valeur de ceux qui osent s'approcher de son sanctuaire. Il attaque quiconque ne respecte pas l'équilibre de la forêt.
+- **Territorial** : Il ne tolère aucune intrusion et utilisera les plantes de la forêt pour repousser les aventuriers avant même qu'ils atteignent son sanctuaire.
+- **Colère de la Nature** : Une fois engagé, il utilise l'environnement à son avantage, rendant le combat dynamique et imprévisible.
+#### Compétences
+- **Attaqie des Branches** : Les branches de l'arbre sur son dos frappent violemment, infligent des dégâts à distance et immobilisant temporairement le joueur.
+- **Vignes Enserrantes** : Des racines surgissent du sol pour entraver les mouvements du joueur, rendant l'esquive plus difficile.
+- **Souffle de la Sylve** : Une attaque en zone où il libère un nuage de spores empoisonnées, forçant le joueur à chercher une zone dégagée.
+- **Régénération Sylvestre** : Le Protecteur peut canaliser l'énergie de la forêt pour se soigner partiellement, obligeant le joueur à l'interrompre.
+#### Stratégie pour le Battre
+1. **Eviter les Racines** : Observer les mouvements du sol pour anticiper l'apparition des vignes et rester mobile.
+2. **Cibler les Cristaux** :  Les cristaux incrustés dans son corps sont des points faibles qui amplifient les dégâts infligés.
+3. **Uriliser le Feu** : Les armes imprégnés de feu ou d'énergie déstructrice sont particulièrement efficaces contre sa carapace d'écorce.
+4. **Exploiter les Espaces Ouverts** : Eviter de se retrouver coincé dans les zones encombrées de végétation.
+#### Environnement
+Le combat se déroule dans une clairière circulaire entourée d'arbres massifs. Les racines, lianes et fleurs géantes présentes dans l'arène interagissent avec les actions du Protecteur, créant des obstacles et des dangers supplémentaires. Des clairières lumineuses apparaissent temporairement pour offrir un réput au joueur.
+#### Récompenses
+- **Fragment du Coeur d'Eryndor** : Protégé par le Protecteur.
+- **Epée Sylvestre** : Une arme légère et rapide, imprégné de l'énergie naturelle, idéale pour des attaques rapides et infligeant des dégâts aux ennemis magiques.
+- **Amulette de la Sylve** : Un talisman qui augmente la régénération de santé ou améliore la résistance aux poisons et malédictions.
+#### Lien avec l'Histoire
+La défaite du Protecteur de la Sylve représente plus qu'un simple triomphe : c'est une preuve que le joueur peut équilibrer force et respect de la nature. Cette victoire ouvre un passage vers les secrets de la forêt et fournit des indices essentiels sur la véritables nature du Coeur d'Eryndor.
+
+Le Protecteur de la Sylve est un adversaire redoutable, mais aussi une incarnation de la beauté et de la fureur de la nature, offrant un combat mémorable dans l'aventure du joueur
 
 ### Le dragon de braise
 
@@ -210,11 +239,11 @@ Le Gardien Sépulcral représente une épreuve essentielle, testant les compéte
 
 ### La forêt des murmures perdus
 
-### La caverne des flamme éternelles
+### La caverne des flammes éternelles
 
-### Le temple des vents déchînés
+### Le temple des vents déchaînés
 
-### Le sancutaire des eaux endormies
+### Le sanctuaire des eaux endormies
 
 ## **Matériaux**
 ### Récoltables
