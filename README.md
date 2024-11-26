@@ -10,7 +10,7 @@
 - **Plateforme** : Le jeu est développé pour la réalité virtuelle. Tu auras besoin d'un casque VR compatible et ses contrôleurs.
 - **Système d'exploitation** : Windows 10 ou supérieur.
 - **VR Setup** : Un environnement VR prêt avec des capteurs et une configuration correcte des contrôleurs.
-- **Version de Unity** : La version de Unity pour le développement d'Eryndor est `2022.3.52f1`
+- **Version de Unity** : La version de Unity pour le développement d'Eryndor est `2022.3.52f1` (pas nécessaire si vous télécharcher l'éxecutable du jeu ici)
 
 ### Récupération du projet Unity
 1. **Clone du Repository**
