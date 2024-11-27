@@ -273,6 +273,38 @@ L'Aigle de la Tempête domine le champ de batailles avec ses attaques aériennes
 - **Rafales de VEnt** : 
 
 ### Le serpent des abysses
+Le Serpent des Abysses est un gardien redoutable des profondeurs, niché dans une grotte immergée où l'obscurité règne en maître. Protecteur d'un fragment du Coeur d'Eryndor, il incarne les mysthères et les dangers des eaux profondes.
+#### Apparence
+Cet immense serpent marin possède des écailles noires luisantes, réfléchisant une lumière bleutée lorsqu'il se meut dans l'eau. Ses yeux  rouges luisent dans l'obscurité, et ses crocs acérés dégagent une brume empoisonnée. Son coprs serpentin est couvert de cicatrices, vestiges des combats passés, et des algues matines s'accrochent à ses écailles.
+#### Origines
+Le Serpent des Abysses est une créature ancestrale née des profondeurs insondables d'Eryndor. Il est dit qu'il a été créé par els dieux pour protéger les secrets engloutis de l'océan et maintenir l'équilibre des forces mariens. Ce rôle sacré en fait une entité vénérée et redoutée par les marins.
+#### Comportement
+Le Serpent des Abysses utilise son environnement aquatique pour dominer le combat, alternant entre des attaques furtives et brutales.
+- **Chasseur Patient** : Il attend que le joueur s'aventure trop loin ou fasse une erreur pour frapper rapidement.
+- **Tactique de Submersion** : Il alterne entre les pronfondeurs et la surface, rendant le combat imprévisible.
+#### Compétences
+- **Frappe Eclair** : Une attaque rapide où le serpent surgit des profondeurs pour mrdre violement.
+- **Brume Venimeuse** : Il libère une brume toxique qui empoisonne lentement le joueur, forçant à une esquive rapide ou à l'usage d'antidotes.
+- **Mur d'Eau** : Une onde de choc qui repousse le joueur et pertube la visibilité sosu l'eau.
+- **Enroulement Mortel** : Il tente d'enrouler son corps autour du joueur pour l'immobiliser et infliger des dégâts continus.
+- **Appel des Profondeurs** : Lors de son attaque ultime, il invoque des tourbillons qui attirent le joueur vers des pièges ou zones dangereuses.
+#### Stratégie pour le Battre
+1. **Maîtriser le Combat Subaquatique** : Adapter ses déplacements dans l'eau pour éviter ses attaques et maintenir une bonne visibilité.
+2. **Anticiper ses Aparitions** : Observer les ondulations de l'eau pour repérer son arrivé et contre-attaquer au bon moment.
+3. **Utiliser des Armes Appropriées** : Les armes rapides et résistantes à l'eau sont essentielles pour ce combat.
+4. **Gérer le Poison** : Préparer des antidotes ou des équipements réduisant les effets de son venin est crucial pour survivre.
+#### Environnement
+Le combat se déroule dans une grotte sous-marine complexe, avec des tunnels étroits, des poches d'air pour reprendre son souffles, et des plantes bioluminescentes qui éclairent faiblement l'arène. Les courants marins ajoutent un défi supplémentaire, affectant les déplacemets du joueur.
+#### Récompenses
+- **Fragment du Coeur d'Eryndor** : La récompense centrales pour avoir vaincu le gardien aquatique.
+- **Dent Abyssale** : Un matériau rare pour améliorer les armes avec des propriétés aquatiques ou empoisonnées.
+- **Cape des Abyssale** : Un équipement qui améliore les capacités de nage et la résistance au poison.
+#### Lien avec l'Histoire
+En vainquant le Serpent des Abysses, le joueur prouve sa capacité à affronter les dangers des eaux profondes et surmonte ses peurs. Ce combat représente la confrontation directe avec les mystères inconnus et la bravoure nécessaire pour les affronter.
+
+Les habitants des villages côtiers honorent le joueur en lui révélant des secrets sur les légendes marines et en partageant des objets rares en signe de gratitude.
+
+Le Serpent des Abysses offre une expérience palpitant et unique, où la stratégie et la maîtrise des combats aquatiques sont mises à l'épreuve. 
 
 ## **Mobs**
 
