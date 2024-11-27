@@ -165,6 +165,17 @@ Karos installe souvent son campement près des Plaines Oubliées ou aux abords d
 
 Karos, le Mercenaire Vagabond, est un allié précieux pour ceux qui partagent ses valeurs et un adversaire redoutable pour ceux qui s'opposent à lui. Sa lame et son expérience sont des atouts qui peuvent faire la différence dans la quête pour restaurer le Coeur d'Eryndor.
 
+## **Donjons**
+### La crypte des âmes silencieuse
+
+### La forêt des murmures perdus
+
+### La caverne des flammes éternelles
+
+### Le temple des vents déchaînés
+
+### Le sanctuaire des eaux endormies
+
 ## **Boss**
 ### Le gardien sépulcral
 Le Gardien Sépucral est l'un des premiers grands défis auxquels le joueur sera confronté dans *Eryndor*. Chargé de protéger l'un des fragments du Coeur d'Eryndor, ce boss imposant hante une mausolée antique, rempli d'obscurité et de pièges mortels.
@@ -307,17 +318,6 @@ Les habitants des villages côtiers honorent le joueur en lui révélant des sec
 Le Serpent des Abysses offre une expérience palpitant et unique, où la stratégie et la maîtrise des combats aquatiques sont mises à l'épreuve. 
 
 ## **Mobs**
-
-## **Donjons**
-### La crypte des âmes silencieuse
-
-### La forêt des murmures perdus
-
-### La caverne des flammes éternelles
-
-### Le temple des vents déchaînés
-
-### Le sanctuaire des eaux endormies
 
 ## **Matériaux**
 ### Récoltables
