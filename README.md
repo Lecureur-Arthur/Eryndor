@@ -38,7 +38,7 @@
 │   ├── Combat/        # Scripts de combat
 │   ├── Quests/        # Scripts de gestion des quêtes
 │   └── UI/            # Scripts de l’interface utilisateur
-├── Packages/     # Documentation technique et de conception
+├── Packages/          # Packages Unity
 ├── README.md          # Ce fichier
 └── ProjectSettings/   # Paramètres de Unity
 ```
