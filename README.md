@@ -305,7 +305,7 @@ Le Serpent des Abysses utilise son environnement aquatique pour dominer le comba
 3. **Utiliser des Armes Appropriées** : Les armes rapides et résistantes à l'eau sont essentielles pour ce combat.
 4. **Gérer le Poison** : Préparer des antidotes ou des équipements réduisant les effets de son venin est crucial pour survivre.
 #### Environnement
-L****e combat se déroule dans une grotte sous-marine complexe, avec des tunnels étroits, des poches d'air pour reprendre son souffles, et des plantes bioluminescentes qui éclairent faiblement l'arène. Les courants marins ajoutent un défi supplémentaire, affectant les déplacemets du joueur.
+L****e combat se déroule dans une grotte sous-marine complexe, avec des tunnels étroits, des poches d'air pour reprendre son souffle, et des plantes bioluminescentes qui éclairent faiblement l'arène. Les courants marins ajoutent un défi supplémentaire, affectant les déplacemets du joueur.
 #### Récompenses
 - **Fragment du Coeur d'Eryndor** : La récompense centrales pour avoir vaincu le gardien aquatique.
 - **Dent Abyssale** ****: Un matériau rare pour améliorer les armes avec des propriétés aquatiques ou empoisonnées.
@@ -314,7 +314,7 @@ L****e combat se déroule dans une grotte sous-marine complexe, avec des tunnels
 En vainquant le Serpent des Abysses, le joueur prouve sa capacité à affronter les dangers des eaux profondes et surmonte ses peurs. Ce combat représente la confrontation directe avec les mystères inconnus et la bravoure nécessaire pour les affronter.
 
 Les habitants des villages côtiers honorent le joueur en lui révélant des secrets sur les légendes marines et en partageant des objets rares en signe de gratitude.
-
+****
 Le Serpent des Abysses offre une expérience palpitant et unique, où la stratégie et la maîtrise des combats aquatiques sont mises à l'épreuve. 
 
 ## **Mobs**
