@@ -178,58 +178,58 @@ Karos, le Mercenaire Vagabond, est un allié précieux pour ceux qui partagent s
 
 ## **Boss**
 ### Le gardien sépulcral
-Le Gardien Sépucral est l'un des premiers grands défis auxquels le joueur sera confronté dans *Eryndor*. Chargé de protéger l'un des fragments du Coeur d'Eryndor, ce boss imposant hante une mausolée antique, rempli d'obscurité et de pièges mortels.
+Le Gardien Sépulcral est l'un des premiers grands défis auxquels le joueur sera confronté dans *Eryndor*. Chargé de protéger l'un des fragments du Coeur d'Eryndor, ce boss imposant hante un mausolée antique, rempli d'obscurité et de pièges mortels.
 #### Apparence
-Le Gardien Sépucral est une entité massive et terrifiante, un amalgame d'os, de métal rouillé et de magie obscure. Son corps est enveloppé d'une aura noire, et ses yeux brillent d'un éclat spectral. Il brandit une gigantesque hallebarde corrodée et porte une arlure partiellement détruire, évoquant un ancien chevalier maudit.
+Le Gardien Sépulcral est une entité massive et terrifiante, un amalgame d'os, de métal rouillé et de magie obscure. Son corps est enveloppé d'une aura noire, et ses yeux brillent d'un éclat spectral. Il brandit une gigantesque hallebarde corrodée et porte une allure partiellement détruire, évoquant un ancien chevalier maudit.
 #### Origines
-Selon les légendes, le Gardien Sépulcral était autrefois un chevalier d'élite jurant fidélité au royaume d'Eryndor. Après la fragmentation du Coeur, il fut corrompu par les énergies sombres émanant des éclats dispersés. Transformé en une sentinelle sans âme, il est condamné à défendre son fragment conte quiconque tenterait de le récupérer.
+Selon les légendes, le Gardien Sépulcral était autrefois un chevalier d'élite jurant fidélité au royaume d'Eryndor. Après la fragmentation du Cœur, il fut corrompu par les énergies sombres émanant des éclats dispersés. Transformé en une sentinelle sans âme, il est condamné à défendre son fragment conte quiconque tenterait de le récupérer.
 #### Comportement
-Le Gardien est une force implacable, combinant puissance brute et tactiques stratégiques. Bien qu'il semble lent à première vue, ses attaques sont dévastatrices st son intelligence tactiques le rend imprévisible.
+Le Gardien est une force implacable, combinant puissance brutes et tactiques stratégiques. Bien qu'il semble lent à première vue, ses attaques sont dévastatrices et son intelligence tactique le rend imprévisible.
 - **Patrouille** : Avant le combat, le Gardien arpente son mausolée dans un silence menaçant, surveillant tout intrus.
 - **Combativité** : Une fois engagé, il attaque sans relâche, utilisant la portée de sa hallebarde pour maintenir ses adversaires à distance.
 #### Compétences
-- **Coup de Hallebard** : Une attaues puissante en balayage, capable de toucher plusieurs cibles à la fois et d'infliger des dégâts massifs.
+- **Coup de Hallebarde** : Une attaque puissante en balayage, capable de toucher plusieurs cibles à la fois et d'infliger des dégâts massifs.
 - **Frappe Spectrale** : Le Gardien canalise une énergie sombre dans son arme et frappe le sol, créant une onde de choc magique qui traverse la pièce.
-- **Appel des Ombres** : Il invoques des âmes torturées pour distraire et attaquer le joueur, forçant ce dernier à gérer plusieurs ennemis à la fois.
-- **Carapace Squelettique** : A mesure que ses points de vie diminuent, il renforce son armure avec des os environnants, réduisant les dégâts subis.
+- **Appel des Ombres** : Il invoque des âmes torturées pour distraire et attaquer le joueur, forçant ce dernier à gérer plusieurs ennemis à la fois.
+- **Carapace Squelettique** : À mesure que ses points de vie diminuent, il renforce son armure avec des os environnants, réduisant les dégâts subis.
 #### Stratégie pour le Battre
 1. **Esquiver ses Balayages** : Rester mobile est crucial pour éviter les attaques larges de sa hallebarde.
 2. **Exploiter les Fenêtres d'Ouverture** : Après une frappe au sol ou une invocation, le Gardien est vulnérables pendant quelques secondes.
 3. **Gérer les Ombres** : Il est vital de neutraliser les âmes invoquées rapidement pour éviter d'être submergé.
 4. **Armes Améliorées** : Des équipements bénis ou chargés de magie sacrée infligent des dégâts accrus au Gardien
-#### Environnment
-Le combat conter le Gardien se déroule dans une salle funéraire massive. Le sol est jonché d'ossements et les murs sont ornés de bas-reliefs représentant les batailles anciennes. Des piliers effondrés et des flammes spectrales offernt des couvertures temporaires, mais les zones sombres cachent parfois des pièges.
+#### Environnement
+Le combat contre le Gardien se déroule dans une salle funéraire massive. Le sol est jonché d'ossements et les murs sont ornés de bas-reliefs représentant les batailles anciennes. Des piliers effondrés et des flammes spectrales offrent des couvertures temporaires, mais les zones sombres cachent parfois des pièges.
 #### Récompenses
-- **Fragment du Coeur d'Eryndor** : Le fragment protégé par le Gardien.
+- **Fragment du Cœur d'Eryndor** : Le fragment protégé par le Gardien.
 - **Hallebarde Sépulcrale** : Une version allégée de l'arme du boss, utilisable par le joueur.
 - **Reliques Maudites** : Des objets magiques imprégnés d'énergie sombre, utiles pour renforcer les compétences ou créer des objets puissants.
 
 Le Gardien Sépulcral représente une épreuve essentielle, testant les compétences du joueur en combat stratégique et en gestion des ressources. Sa défaite marque un tournant dans la quête pour restaurer Eryndor, prouvant que le héros est capable d'affronter les ténèbres les plus profondes.
 
 ### Le protecteur de la sylve
-Le protecteur de la Sylve est le second boss majeur d'*Eryndor*. Ce gardien millénaire veille sur un fragment du Coeur d'Eryndor dissimulé dans une clairière enchantée, au coeur d'une forêt dense et mystérieuse. Mi-créature, mi-esprit, il est un avatar de la nature, à la fois majestueux et redoutable.
+Le protecteur de la Sylve est le second boss majeur d'*Eryndor*. Ce gardien millénaire veille sur un fragment du Cœur d'Eryndor dissimulé dans une clairière enchantée, au cœur d'une forêt dense et mystérieuse. Mi-créature, mi-esprit, il est un avatar de la nature, à la fois majestueux et redoutable.
 #### Apparence
-Le Protecteur de la Sylve est une entité gigantesque composé d'écorce vivante, de vignes mouvantes, et de cristaux lumineux incrustrés dans son corps. Ses yeux luisent d'une lumière émeraude, reflétant la sagesse et la colère de la forêt qu'il protège. Il porte sur son dos un arbre ancien, dont les branches s'animent pour attaquer les intrus.
+Le Protecteur de la Sylve est une entité gigantesque composé d'écorce vivante, de vignes mouvantes, et de cristaux lumineux incrustés dans son corps. Ses yeux luisent d'une lumière émeraude, reflétant la sagesse et la colère de la forêt qu'il protège. Il porte sur son dos un arbre ancien, dont les branches s'animent pour attaquer les intrus.
 #### Origines
-Créé par les anciens druides d'Eryndor pour protéger la nature conter les envahisseurs, le Protecteur de la Sylve est devenu l'ultime gardien de la forêt après la fragmentation du Coeur. Le fragment qu'il garde amplifie sa puissance et son lien avec la végétation environnante, mais l'a également rendu méfiant et agressif envers tous ceux qui pénètrent son domaine.
+Créé par les anciens druides d'Eryndor pour protéger la nature conter les envahisseurs, le Protecteur de la Sylve est devenu l'ultime gardien de la forêt après la fragmentation du Cœur. Le fragment qu'il garde amplifie sa puissance et son lien avec la végétation environnante, mais l'a également rendu méfiant et agressif envers tous ceux qui pénètrent son domaine.
 #### Comportement
 Le Protecteur agit comme un juge implacable, testant la valeur de ceux qui osent s'approcher de son sanctuaire. Il attaque quiconque ne respecte pas l'équilibre de la forêt.
 - **Territorial** : Il ne tolère aucune intrusion et utilisera les plantes de la forêt pour repousser les aventuriers avant même qu'ils atteignent son sanctuaire.
 - **Colère de la Nature** : Une fois engagé, il utilise l'environnement à son avantage, rendant le combat dynamique et imprévisible.
 #### Compétences
-- **Attaqie des Branches** : Les branches de l'arbre sur son dos frappent violemment, infligent des dégâts à distance et immobilisant temporairement le joueur.
+- **Attaque des Branches** : Les branches de l'arbre sur son dos frappent violemment, infligent des dégâts à distance et immobilisant temporairement le joueur.
 - **Vignes Enserrantes** : Des racines surgissent du sol pour entraver les mouvements du joueur, rendant l'esquive plus difficile.
 - **Souffle de la Sylve** : Une attaque en zone où il libère un nuage de spores empoisonnées, forçant le joueur à chercher une zone dégagée.
 - **Régénération Sylvestre** : Le Protecteur peut canaliser l'énergie de la forêt pour se soigner partiellement, obligeant le joueur à l'interrompre.
 #### Stratégie pour le Battre
 1. **Eviter les Racines** : Observer les mouvements du sol pour anticiper l'apparition des vignes et rester mobile.
-2. **Cibler les Cristaux** :  Les cristaux incrustés dans son corps sont des points faibles qui amplifient les dégâts infligés.
-3. **Uriliser le Feu** : Les armes imprégnés de feu ou d'énergie déstructrice sont particulièrement efficaces contre sa carapace d'écorce.
+2. **Cibler les Cristaux** : Les cristaux incrustés dans son corps sont des points faibles qui amplifient les dégâts infligés.
+3. **Utiliser le Feu** : Les armes imprégnées de feu ou d'énergie déstructrice sont particulièrement efficaces contre sa carapace d'écorce.
 4. **Exploiter les Espaces Ouverts** : Eviter de se retrouver coincé dans les zones encombrées de végétation.
 #### Environnement
 Le combat se déroule dans une clairière circulaire entourée d'arbres massifs. Les racines, lianes et fleurs géantes présentes dans l'arène interagissent avec les actions du Protecteur, créant des obstacles et des dangers supplémentaires. Des clairières lumineuses apparaissent temporairement pour offrir un réput au joueur.
 #### Récompenses
-- **Fragment du Coeur d'Eryndor** : Protégé par le Protecteur.
+- **Fragment du Cœur d'Eryndor** : Protégé par le Protecteur.
 - **Epée Sylvestre** : Une arme légère et rapide, imprégné de l'énergie naturelle, idéale pour des attaques rapides et infligeant des dégâts aux ennemis magiques.
 - **Amulette de la Sylve** : Un talisman qui augmente la régénération de santé ou améliore la résistance aux poisons et malédictions.
 #### Lien avec l'Histoire
@@ -246,13 +246,13 @@ Créature légendaire née du magma des montagnes d'Eryndor, le Dragon de Braise
 #### Comportement
 Le Dragon de Braise est une force incontrôlable, guidée par son instinct territorial et une colère brûlante envers les intrus.
 - **Vol Dominant** : Il commence souvent le combat en s'élevant dans les airs, rendant difficile de l'atteindre directement.
-- **Rage Pyrotechnique** : Plus le combat dure, plus le dragon devient agressif, augementant la fréquence et l'intensité de ses attaques.
+- **Rage Pyrotechnique** : Plus le combat dure, plus le dragon devient agressif, augmentant la fréquence et l'intensité de ses attaques.
 #### Compétences
-- **Soufle de Feu** : Un torrent de flammes dévastateur qui balaie l'arène, forçanct les joueur à essquiver ou à se réfugier derrière des rochers.
+- **Souffle de Feu** : Un torrent de flammes dévastateur qui balaie l'arène, forçant le joueur à esquiver ou à se réfugier derrière des rochers.
 - **Pluis de Braise** : Le dragon s'élève dans les airs et libère une pluie de météores incandescents, infligeant des dégâts massifs en zone.
 - **Coup de Queue** : Un balayage rapide avec sa queue écailleuse, efficace pour repousser les adversaires qui s'approchent trop près.
-- **Aura de Chaleur** : a simple présence augemente la température de l'arène, drainant lentement la santé du joueur s'il reste immobile trop longtemps.
-- **Eruption de lava** : Le dragon frappe le sol, provoquant des geysers de lave qui jaillissent aléatoirement dans l'arène.
+- **Aura de Chaleur** : Sa simple présence augment la température de l'arène, drainant lentement la santé du joueur s'il reste immobile trop longtemps.
+- **Eruption de lave** : Le dragon frappe le sol, provoquant des geysers de lave qui jaillissent aléatoirement dans l'arène.
 #### Stratégie pour le battre
 1. **Se Protéger des Flammes** : Porter des équipements résistants à la chaleur ou utiliser des potions de protection contre le feu est crucial.
 2. **Observer les Attaques Aériennes** : Anticiper ses mouvements dans les airs pour éviter ses assauts dévastateurs.
@@ -261,61 +261,61 @@ Le Dragon de Braise est une force incontrôlable, guidée par son instinct terri
 #### Environnement
 Le combat a lieu dans une gigantesque caverne volcanique, remplie de lacs de lave et de colonnes de pierre incandescentes. Des rochers tombent régulièrement du plafond, créant des obstacels ou des couvertures temporaires. Le terrain change au fil du combat, avec des zones qui s'effondrent dans la lave, réduisant les options pour se déplacer.
 #### Récompenses
-- **Fragment de Coeur d'Eryndor** : Gardé au coeur de la caverne.
+- **Fragment de Cœur d'Eryndor** : Gardé au cœur de la caverne.
 - **Ecaille de Braise** : Une ressource rare permettant de forger des armures resistantes au feu ou d'améliorer des armes avec des dégâts supplémentaires de feu.
-- **Anneau de Flamboyant** : Un artefact magique augementant la résistance aux flammes et la puissance des sorts élémentaires de feu.
+- **Anneau de Flamboyant** : Un artefact magique augmentant la résistance aux flammes et la puissance des sorts élémentaires de feu.
 #### Lien avec l'histoire
-La victoire sur le Dragon de Braise est un moment de gloire pour le joueur, marquant un tournant dans la quête. Cet affrontement épique symbolise la capacité du héros à surmonter les épreuves les plus intenses. De plus, les villages voisins, libérés de la menace du dragon, offrent leur aide au joueur, enrichissant les options d'artisanat et d'approvisionement.
+La victoire sur le Dragon de Braise est un moment de gloire pour le joueur, marquant un tournant dans la quête. Cet affrontement épique symbolise la capacité du héros à surmonter les épreuves les plus intenses. De plus, les villages voisins, libérés de la menace du dragon, offrent leur aide au joueur, enrichissant les options d'artisanat et d'approvisionnement.
 
-Le Dragon de Braise, avec sa puissance mythique et son arène spectaculaire, offre l'un des combats les plus mémorables de l'aventure, mélant stratégie, habilité et résistance
+Le Dragon de Braise, avec sa puissance mythique et son arène spectaculaire, offre l'un des combats les plus mémorables de l'aventure, mêlant stratégie, habilité et résistance
 
 ### L'aigle de la tempête
-L'Aigle de la Tempête est un adversaire aérien redoutable, maître des cieux et gardien d'un fragment du Coeur d'Eryndor. Niché au sommet d'une montagne balayée par des vents violents et des orages incessants, cet imposant oiseau incarne la force et la majesté de la tempête.
+L'Aigle de la Tempête est un adversaire aérien redoutable, maître des cieux et gardien d'un fragment du Cœur d'Eryndor. Niché au sommet d'une montagne balayée par des vents violents et des orages incessants, cet imposant oiseau incarne la force et la majesté de la tempête.
 #### Apparence
-L'Aigle de la Tempête est gigantesque, avec uenenvergure d'ailes qui couvre presque tout l'arène. Son plumage est d'un bleu électrique et semble crépiter d'énergie, tandis que ses yeux étincellent comme des éclairs prêts à frapper. Ses griffes scintillent d'un métal noir, et des éclairs dansent sur ses ailes lorsqu'il s'élève dans le ciel.
+L'Aigle de la Tempête est gigantesque, avec une envergure d'ailes qui couvre presque toute l'arène. Son plumage est d'un bleu électrique et semble crépiter d'énergie, tandis que ses yeux étincellent comme des éclairs prêts à frapper. Ses griffes scintillent d'un métal noir, et des éclairs dansent sur ses ailes lorsqu'il s'élève dans le ciel.
 #### Origines
-Créature légendaire née d'une tempête millénaire, l'Aigle de la Tempête a été choisi pour veiller sur un fragment du Coeur d'Eryndor. Ses pouvoirs sont liés aux forces élémentaires du vent et de la foudre, et il est craint autant qu'admiré par les habitants des villages environnants.
+Créature légendaire née d'une tempête millénaire, l'Aigle de la Tempête a été choisi pour veiller sur un fragment du Cœur d'Eryndor. Ses pouvoirs sont liés aux forces élémentaires du vent et de la foudre, et il est craint autant qu'admiré par les habitants des villages environnants.
 #### Comportement
 L'Aigle de la Tempête domine le champ de batailles avec ses attaques aériennes rapides et imprévisibles.
 - **Vol Stratégique** : Il alterne entre des attaques à haute altitude et des piqués mortels pour déstabiliser le joueur.
 - **Fureur Cyclonique** : Lorsqu'il est blessé, il intensifie ses attaques, déclenchent des tempêtes encore plus violentes.
 #### Compétences
-- **Plongeons Electrique** : Un piqué rapide où il frappe le joueur avec ses griffes, infligeant des dégâts physique et électriques.
+- **Plongeons Electrique** : Un piqué rapide où il frappe le joueur avec ses griffes, infligeant des dégâts physiques et électriques.
 - **Rafales de VEnt** : 
 
 ### Le serpent des abysses
-Le Serpent des Abysses est un gardien redoutable des profondeurs, niché dans une grotte immergée où l'obscurité règne en maître. Protecteur d'un fragment du Coeur d'Eryndor, il incarne les mysthères et les dangers des eaux profondes.
+Le Serpent des Abysses est un gardien redoutable des profondeurs, niché dans une grotte immergée où l'obscurité règne en maître. Protecteur d'un fragment du Cœur d'Eryndor, il incarne les mystères et les dangers des eaux profondes.
 #### Apparence
-Cet immense serpent marin possède des écailles noires luisantes, réfléchisant une lumière bleutée lorsqu'il se meut dans l'eau. Ses yeux  rouges luisent dans l'obscurité, et ses crocs acérés dégagent une brume empoisonnée. Son coprs serpentin est couvert de cicatrices, vestiges des combats passés, et des algues matines s'accrochent à ses écailles.
+Cet immense serpent marin possède des écailles noires luisantes, réfléchissant une lumière bleutée lorsqu'il se meut dans l'eau. Ses yeux rouges luisent dans l'obscurité, et ses crocs acérés dégagent une brume empoisonnée. Son corp serpentin est couvert de cicatrices, vestiges des combats passés, et des algues matines s'accrochent à ses écailles.
 #### Origines
-Le Serpent des Abysses est une créature ancestrale née des profondeurs insondables d'Eryndor. Il est dit qu'il a été créé par els dieux pour protéger les secrets engloutis de l'océan et maintenir l'équilibre des forces mariens. Ce rôle sacré en fait une entité vénérée et redoutée par les marins.
+Le Serpent des Abysses est une créature ancestrale née des profondeurs insondables d'Eryndor. Il est dit qu'il a été créé par els dieux pour protéger les secrets engloutis de l'océan et maintenir l'équilibre des forces marines. Ce rôle sacré en fait une entité vénérée et redoutée par les marins.
 #### Comportement
 Le Serpent des Abysses utilise son environnement aquatique pour dominer le combat, alternant entre des attaques furtives et brutales.
 - **Chasseur Patient** : Il attend que le joueur s'aventure trop loin ou fasse une erreur pour frapper rapidement.
-- **Tactique de Submersion** : Il alterne entre les pronfondeurs et la surface, rendant le combat imprévisible.
+- **Tactique de Submersion** : Il alterne entre les profondeurs et la surface, rendant le combat imprévisible.
 #### Compétences
-- **Frappe Eclair** : Une attaque rapide où le serpent surgit des profondeurs pour mrdre violement.
+- **Frappe Eclair** : Une attaque rapide où le serpent surgit des profondeurs pour mordre violemment.
 - **Brume Venimeuse** : Il libère une brume toxique qui empoisonne lentement le joueur, forçant à une esquive rapide ou à l'usage d'antidotes.
-- **Mur d'Eau** : Une onde de choc qui repousse le joueur et pertube la visibilité sosu l'eau.
+- **Mur d'Eau** : Une onde de choc qui repousse le joueur et perturb la visibilité sous l'eau.
 - **Enroulement Mortel** : Il tente d'enrouler son corps autour du joueur pour l'immobiliser et infliger des dégâts continus.
 - **Appel des Profondeurs** : Lors de son attaque ultime, il invoque des tourbillons qui attirent le joueur vers des pièges ou zones dangereuses.
 #### Stratégie pour le Battre
 1. **Maîtriser le Combat Subaquatique** : Adapter ses déplacements dans l'eau pour éviter ses attaques et maintenir une bonne visibilité.
-2. **Anticiper ses Aparitions** : Observer les ondulations de l'eau pour repérer son arrivé et contre-attaquer au bon moment.
+2. **Anticiper ses Apparitions** : Observer les ondulations de l'eau pour repérer son arrivé et contre-attaquer au bon moment.
 3. **Utiliser des Armes Appropriées** : Les armes rapides et résistantes à l'eau sont essentielles pour ce combat.
 4. **Gérer le Poison** : Préparer des antidotes ou des équipements réduisant les effets de son venin est crucial pour survivre.
 #### Environnement
 L****e combat se déroule dans une grotte sous-marine complexe, avec des tunnels étroits, des poches d'air pour reprendre son souffle, et des plantes bioluminescentes qui éclairent faiblement l'arène. Les courants marins ajoutent un défi supplémentaire, affectant les déplacemets du joueur.
 #### Récompenses
-- **Fragment du Coeur d'Eryndor** : La récompense centrales pour avoir vaincu le gardien aquatique.
+- **Fragment du Cœur d'Eryndor** : La récompense centrale pour avoir vaincu le gardien aquatique.
 - **Dent Abyssale** ****: Un matériau rare pour améliorer les armes avec des propriétés aquatiques ou empoisonnées.
-- **Cape des Abyssale** : Un équipement qui améliore les capacités de nage et la résistance au poison.
+- **Cape des Abyssales** : Un équipement qui améliore les capacités de nage et la résistance au poison.
 #### Lien avec l'Histoire
 En vainquant le Serpent des Abysses, le joueur prouve sa capacité à affronter les dangers des eaux profondes et surmonte ses peurs. Ce combat représente la confrontation directe avec les mystères inconnus et la bravoure nécessaire pour les affronter.
 
 Les habitants des villages côtiers honorent le joueur en lui révélant des secrets sur les légendes marines et en partageant des objets rares en signe de gratitude.
 ****
-Le Serpent des Abysses offre une expérience palpitant et unique, où la stratégie et la maîtrise des combats aquatiques sont mises à l'épreuve. 
+Le Serpent des Abysses offre une expérience palpitante et unique, où la stratégie et la maîtrise des combats aquatiques sont mises à l'épreuve. 
 
 ## **Mobs**
 
