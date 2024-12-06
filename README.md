@@ -33,12 +33,12 @@
 /Eryndor
 │
 ├── Assets/            # Tous les assets du jeu (modèles, textures, scripts, etc.)
-├── Scenes/            # Les scènes du jeu
-├── Scripts/           # Tous les scripts du jeu
+|   ├── Scenes/        # Les scènes du jeu
+│   ├── Scripts/       # Tous les scripts du jeu
 │   ├── Combat/        # Scripts de combat
 │   ├── Quests/        # Scripts de gestion des quêtes
 │   └── UI/            # Scripts de l’interface utilisateur
-├── Documentation/     # Documentation technique et de conception
+├── Packages/          # Packages Unity
 ├── README.md          # Ce fichier
 └── ProjectSettings/   # Paramètres de Unity
 ```
